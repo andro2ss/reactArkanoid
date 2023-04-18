@@ -1,0 +1,5 @@
+# Ignore artifacts:
+build
+coverage
+
+# Svg animations with obfuscated JS

@@ -1,0 +1,13 @@
+// node modules
+node_modules/*
+
+//tests
+src/testHelpers*
+
+// react
+build/*
+dist/*
+public/*
+
+// cypress
+cypress/*
